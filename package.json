@@ -1,0 +1,21 @@
+{
+  "name": "first",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Umi 4 application",
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build",
+    "postinstall": "umi setup",
+    "setup": "umi setup"
+  },
+  "dependencies": {
+    "@umijs/max": "^4.6.72"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
