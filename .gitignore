@@ -1,0 +1,9 @@
+node_modules
+.DS_Store
+dist
+.umi
+.umi-production
+.env.local
+npm-debug.log*
+yarn-error.log
+pnpm-debug.log*
